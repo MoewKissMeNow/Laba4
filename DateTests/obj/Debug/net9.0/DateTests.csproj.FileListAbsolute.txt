@@ -5,12 +5,9 @@ F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Laba3.deps.json
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Laba3.runtimeconfig.json
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Laba3.exe
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\testhost.exe
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\NUnit3.TestAdapter.dll
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\nunit.engine.dll
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\nunit.engine.api.dll
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\nunit.engine.core.dll
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\testcentric.engine.metadata.dll
+F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\DateTests.deps.json
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\DateTests.runtimeconfig.json
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\DateTests.dll
@@ -24,8 +21,6 @@ F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossP
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\Newtonsoft.Json.dll
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\nunit.framework.dll
-F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\nunit.framework.legacy.dll
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\xunit.abstractions.dll
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\xunit.assert.dll
 F:\Rider PROJECTS\Laba3\DateTests\bin\Debug\net9.0\xunit.core.dll
@@ -102,6 +97,7 @@ F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.GeneratedMSBuildEdi
 F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.AssemblyInfoInputs.cache
 F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.AssemblyInfo.cs
 F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.csproj.CoreCompileInputs.cache
+F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.sourcelink.json
 F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.csproj.Up2Date
 F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\DateTests.dll
 F:\Rider PROJECTS\Laba3\DateTests\obj\Debug\net9.0\refint\DateTests.dll

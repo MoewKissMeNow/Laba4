@@ -7,6 +7,7 @@ F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.GeneratedMSBuildEditorConfi
 F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.AssemblyInfoInputs.cache
 F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.AssemblyInfo.cs
 F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.csproj.CoreCompileInputs.cache
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.sourcelink.json
 F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.dll
 F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\refint\Laba3.dll
 F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.pdb
