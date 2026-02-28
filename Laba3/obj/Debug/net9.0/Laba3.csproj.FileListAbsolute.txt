@@ -1,0 +1,14 @@
+F:\Rider PROJECTS\Laba3\Laba3\bin\Debug\net9.0\Laba3.exe
+F:\Rider PROJECTS\Laba3\Laba3\bin\Debug\net9.0\Laba3.deps.json
+F:\Rider PROJECTS\Laba3\Laba3\bin\Debug\net9.0\Laba3.runtimeconfig.json
+F:\Rider PROJECTS\Laba3\Laba3\bin\Debug\net9.0\Laba3.dll
+F:\Rider PROJECTS\Laba3\Laba3\bin\Debug\net9.0\Laba3.pdb
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.AssemblyInfoInputs.cache
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.AssemblyInfo.cs
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.csproj.CoreCompileInputs.cache
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.dll
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\refint\Laba3.dll
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.pdb
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\Laba3.genruntimeconfig.cache
+F:\Rider PROJECTS\Laba3\Laba3\obj\Debug\net9.0\ref\Laba3.dll
